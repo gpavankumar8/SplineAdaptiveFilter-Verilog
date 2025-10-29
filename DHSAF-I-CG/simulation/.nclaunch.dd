@@ -1,0 +1,44 @@
+# DO NOT EDIT -- automatically generated design data file -- DO NOT EDIT!!!
+list \
+workdir {/home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS-lessPIP/simulation} \
+cdslib {/home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib} \
+worklib {worklib} \
+mode {0} \
+filters {*.v *.vhd *.vhdl} \
+sesslist {} \
+ToolOption_NCVhdl {-logfile ncvhdl.log -errormax 15 -update -linedebug -status} \
+ToolOption_NCVlog { -work worklib -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib -logfile ncvlog.log -errormax 15 -update -linedebug -status} \
+ToolOption_NCVlog/AMS { -work worklib -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib -logfile ncvlog.log -errormax 15 -update -linedebug -status} \
+ToolOption_NCVlog/SV { -work worklib -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib -logfile ncvlog.log -errormax 15 -update -linedebug -status} \
+ToolOption_irun {-gui {} +linedebug +access rwc -q} \
+ToolOption_NCElab { -work worklib -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib -logfile ncelab.log -errormax 15 -access +wc -status} \
+ToolOption_NCSim { -gui -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib -logfile ncsim.log -errormax 15 -status} \
+ToolOption_NCSdfc { -logfile ncsdfc.log -compile -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib -status} \
+ToolOption_HAL {-logfile hal.log} \
+ToolOption_SimVision {} \
+ToolOption_Update { -force -errormax 15 -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib} \
+ToolOption_SimCompare {} \
+ToolOption_NCBrowse {} \
+ToolOption_HALDefEdit {} \
+ToolOption_NCShell { -suffix .v -logfile ncshell.log -errormax 15 -view shell -fmient "" -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib} \
+ToolOption_NCProtect {-logfile ncprotect.log} \
+ToolOption_NCDC {-logfile ncdc.log -messages -status} \
+ToolOption_DBUtil {} \
+ToolOption_NCVhdl {-logfile ncvhdl.log -errormax 15 -update -linedebug -status} \
+ToolOption_NCVlog { -work worklib -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib -logfile ncvlog.log -errormax 15 -update -linedebug -status} \
+ToolOption_NCVlog/AMS { -work worklib -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib -logfile ncvlog.log -errormax 15 -update -linedebug -status} \
+ToolOption_NCVlog/SV { -work worklib -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib -logfile ncvlog.log -errormax 15 -update -linedebug -status} \
+ToolOption_irun {-gui {} +linedebug +access rwc -q} \
+ToolOption_NCElab { -work worklib -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib -logfile ncelab.log -errormax 15 -access +wc -status} \
+ToolOption_NCSim { -gui -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib -logfile ncsim.log -errormax 15 -status} \
+ToolOption_NCSdfc { -logfile ncsdfc.log -compile -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib -status} \
+ToolOption_HAL {-logfile hal.log} \
+ToolOption_SimVision {} \
+ToolOption_Update { -force -errormax 15 -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib} \
+ToolOption_SimCompare {} \
+ToolOption_NCBrowse {} \
+ToolOption_HALDefEdit {} \
+ToolOption_NCShell { -suffix .v -logfile ncshell.log -errormax 15 -view shell -fmient "" -cdslib /home/user/pavan/projects/adaptfilt/ASIC/Retimed/HSAFLMS/simulation/cds.lib} \
+ToolOption_NCProtect {-logfile ncprotect.log} \
+ToolOption_NCDC {-logfile ncdc.log -messages -status} \
+ToolOption_DBUtil {} \
